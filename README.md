@@ -34,7 +34,7 @@ You will be presented with a series of prompts regarding the team member informa
 
 ## License
 
-Copyright (C) Anthony V. Billie Jr. this project is licensed under the [MIT License](/LICENSE.md).
+Copyright (C) Anthony V. Billie Jr. this project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contributing
 
